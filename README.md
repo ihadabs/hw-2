@@ -3,26 +3,16 @@
 
 # Exercise:
 
-1. Fork this repo and name it `tuwaiq-flutter-hw-2`
+1. Go to some folder for example `swift-2023-5`
 
-2. Clone it to your device
+2. Create a new folder with a repo inside it, name the folder swift-02
 
-3. Go to the repo directory
+3. Create a new file called `your-name.swift`
 
-4. Create a new branch called `<your-first-name>` and check it out
+4. Create a new commit with the file with a message `Hi, this is <your-name>`
 
-5. Create a new file called `your-name.dart`
+5. Create any other file with any name
 
-6. Create a new commit with the file with a message `Hi, this is <your-name>`
+6. Create a new commit with the file with a message `add some new file`
 
-7. Create any other file with any name
-
-8. Create a new commit with the fiel with a message `Some file`
-
-9. Delete the file .gitignore
-
-10. Create a new commit with the fiel with a message `Delete .gitignore`
-
-11. Push brnach to GitHub
-
-12. Create a pull request to tuwaiq's repo
+7. Push brnach to GitHub
